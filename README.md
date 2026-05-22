@@ -13,7 +13,7 @@ Equipped with a comprehensive understanding of defensive mechanics, allowing for
 ### Offensive Security & Penetration Testing
 * **Methodologies:** Network Enumeration, Passive/Active Reconnaissance, Vulnerability Identification
 * **Web Application Security:** Manual and automated verification of the OWASP Top 10 vulnerabilities
-* **Tooling Proficiency:** Nmap, Wireshark, Burp Suite, Kali Linux ecosystem
+* **Tooling Proficiency:** Nmap, Metasploit Framework, Wireshark, Kali Linux ecosystem
 
 ### Systems Architecture & Infrastructure Defense
 * **Foundational Networking:** TCP/IP stack configuration, subnetting, network link-state troubleshooting
