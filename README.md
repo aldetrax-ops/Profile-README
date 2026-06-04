@@ -1,51 +1,39 @@
-# Profile-README
-# Alfredo Deatras, BSCpE
-### Cybersecurity Engineer | Offensive Security & Secure Automation
+# Alfredo Deatras, BSCpE (Aldetrax)
+### Cybersecurity Engineer | Purple Team Operations & Threat Simulation
 
-A Computer Engineering graduate specializing in offensive security operations, vulnerability assessment, and tactical infrastructure defense. Utilizing a deep foundation in hardware-software interfaces and network architecture to conduct systematic, risk-focused adversary emulations. 
-
-Equipped with a comprehensive understanding of defensive mechanics, allowing for the delivery of high-utility remediation guidance tailored to corporate enterprise environments.
+A Computer Engineering graduate leveraging a comprehensive understanding of hardware-software interfaces, network telemetry, and adversarial tactics to engineer resilient defensive systems. Specialized in analyzing attacker methodologies to design, automate, and optimize incident response workflows and threat detection capabilities.
 
 ---
 
 ## Technical Capabilities and Core Competencies
 
-### Offensive Security & Penetration Testing
-* **Methodologies:** Network Enumeration, Passive/Active Reconnaissance, Vulnerability Identification
-* **Web Application Security:** Manual and automated verification of the OWASP Top 10 vulnerabilities
-* **Tooling Proficiency:** Nmap, Metasploit Framework, Wireshark, Kali Linux ecosystem
+### Defensive Engineering and Log Telemetry
+* Tooling and Infrastructure: Centralized pipeline design utilizing the ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat deployment, and active log triage.
+* Intrusion Mitigation: Implementing host-based active defense via Fail2ban, managing network access control boundaries, and performing protocol monitoring.
+* Incident Management: Operationalizing SOC ticketing systems via the Znuny OTRS framework, creating structured multi-tier escalation queues, and enforcing corporate SLA parameters.
+* Systems and Networking: Comprehensive Linux administration across Rocky Linux and Kali distributions, Windows Server baseline configuration, TCP/IP stack management, and intensive Wireshark traffic analysis.
 
-### Systems Architecture & Infrastructure Defense
-* **Foundational Networking:** TCP/IP stack configuration, subnetting, network link-state troubleshooting
-* **Operating Systems:** Linux administration, Windows enterprise architecture baseline review
-* **Virtualization & Isolation:** Host-only laboratory deployment utilizing VMware workstation hypervisors
+### Adversarial Simulation and Vulnerability Assessment
+* Threat Simulation: Modeling credential stuffing, brute-force vectors, and unauthorized network reconnaissance footprints utilizing the Metasploit Framework.
+* Application Security: Analyzing common web application vulnerabilities within the OWASP Top 10 framework to isolate and document specific indicators of compromise.
 
-### Automation & Scripting
-* **Core Languages:** Python (focused on administrative scripting and protocol manipulation)
-* **Shell Scripting:** Bash terminal automation for system configuration and file management
+### Automation and Scripting
+* Languages: Python application logic focused on security automation and system tasks.
+* Shell Scripting: Bash terminal automation for systems management, deployment tasks, and directory configuration.
 
 ---
 
-## Core Credentials and Continuous Professional Development
-
-### Certifications
-* **CompTIA Security+** | In Progress (Examination Target: June 2026)
-  * Validating core knowledge in risk management, incident response architecture, and cryptographic baselines.
-
-### Hands-on Platforms
-* **Hack The Box:** Active platform tracking for adversarial methodology and complex machine exploitation. Verified profile metrics available upon technical evaluation request.
+## Credentials and Continuous Development
+* CompTIA Security+ Certification Training: Program training completed via Rivan IT Training Systems, currently tracking in-progress status for the formal examination.
+* Practical Framework Training: Dedicated lab execution focusing on core system daemons, cron process schedulers, and local SMTP capture mechanics using MailHog.
+* Hands-On Platforms: Active technical tracking on Hack The Box to analyze modern machine exploitation mechanics and defensive remediation procedures.
 
 ---
 
 ## Public Portfolio Architecture
 
-* **[red-team-research](https://github.com/yourusername/red-team-research)**
-  * Technical repository tracking exploit research, vulnerability walk-throughs, and network enumeration playbooks.
-* **[aldetrax-blue-team-labs](https://github.com/yourusername/aldetrax-blue-team-labs)**
-  * Documentation of physical network configuration, traffic analysis, and structural systems troubleshooting.
+### aldetrax-blue-team-labs
+Technical repository containing detailed documentation on centralized logging architecture, host-based access containment policies, and programmatic SOC ticketing workflow configurations.
 
----
-
-## Professional Philosophy
-
-A successful offensive security strategy within highly regulated corporate ecosystems requires moving beyond simple exploitation. True security engineering relies on methodical reconnaissance, absolute precision in execution, and structured technical reporting that translates technical vulnerabilities into actionable remediation strategies.
+### red-team-research
+Defensive playbook tracking exploit analyses, structural vulnerability walkthroughs, and adversarial network reconnaissance methodologies
